@@ -1,0 +1,32 @@
+/* General Section Styling */
+section {
+    /* padding: 50px 20px; */
+    text-align: center;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* About Company Section */
+.contact-company {
+    width:1200px;
+    /* background-color: #f7f7f7; */
+    color: #0d3e5c;
+    padding: 60px 20px;
+}
+
+.contact-company h1 {
+    text-align: left;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.contact-company p {
+    color: rgb(110, 110, 110);
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
